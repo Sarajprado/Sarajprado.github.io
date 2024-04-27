@@ -1,0 +1,13 @@
+@charset "ISO-8859-1";
+
+* {
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+    font-family: 'Inter', sans-serif;
+}
+
+.h:body {
+	background-color: #fde3a7d7;
+	color: black; 
+}
